@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, football, 3D modelling, visual effects, technology, and birdwatcing.
 - 📫 How to reach me: email (ifaneds1@gmail.com).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I speak welsh fluently.
+- ⚡ Fun fact: I speak Welsh fluently.
 
 <!---
 ifaneds/ifaneds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
